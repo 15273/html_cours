@@ -1,6 +1,13 @@
 body {
   background-color:#93e7e7;
 }
+h1{
+  color: rgb(16, 84, 116);
+}
+
+h3{
+  color: rgb(16, 84, 116);
+}
 
 hr {
   border-style: none;
